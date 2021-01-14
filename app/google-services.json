@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536528681648",
+    "project_id": "hd-wallpapers-8bcc9",
+    "storage_bucket": "hd-wallpapers-8bcc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536528681648:android:f8802226841650a3299975",
+        "android_client_info": {
+          "package_name": "hd.wallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536528681648-k30mmrgbik8f1m6njojpqmrf6u0fqbl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxW0JQxQ1-1JAsAjZEdLg9Ku2aCwBhOkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536528681648-k30mmrgbik8f1m6njojpqmrf6u0fqbl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
